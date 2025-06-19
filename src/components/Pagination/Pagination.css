@@ -1,0 +1,13 @@
+.dropdown {
+  select {
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+}
+
+.pagination {
+  button {
+    padding: 6px;
+    margin: 2px;
+  }
+}
